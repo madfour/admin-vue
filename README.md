@@ -1,3 +1,5 @@
+使用vue创建项目的详细步骤:https://blog.csdn.net/qq_34676998/article/details/112395694
+
 # my-vuedemo
 
 ## Project setup
